@@ -1,6 +1,7 @@
 ## The Keyboard Translator ##
 Have you ever typed something before and then realized it's in the wrong language so you have to rewrite it? Say hello to keyboard Translator.\
-I wanted to learn electron and node.js for a bigger project I am planning and I had this cool Idea to create a The Ketboard Translator. \ A windows application that you can enter the language you want to translate from and to, enter your jibrish text (because your keyboard was in the wrong language) and you will get what you actually meant to write.
+I wanted to learn electron and node.js for a bigger project I am planning and I had this cool Idea to create a The Keyboard Translator.\
+A windows application that you can enter the language you want to translate from and to, enter your gibberish text (because your keyboard was in the wrong language) and you will get what you actually meant to write.
 
 **Goals for the future of this project:**
 

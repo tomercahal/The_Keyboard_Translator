@@ -1,0 +1,21 @@
+{
+  "name": "dict",
+  "version": "1.0.0",
+  "description": "Sample for my Dictionary",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tomer",
+    "Dictionary"
+  ],
+  "author": "Tomer Cahal",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  },
+  "dependencies": {
+    "electron-prompt": "^1.4.0"
+  }
+}

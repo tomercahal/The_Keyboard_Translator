@@ -13,7 +13,7 @@
   "author": "Tomer Cahal",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^7.1.7"
+    "electron": "^13.6.6"
   },
   "dependencies": {
     "electron-prompt": "^1.4.0"
